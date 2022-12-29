@@ -4,8 +4,10 @@
 
     Python 3+
     PyCharm
-    ### Bibliotecas
-          pandas
-          openpyxl
-          twilio
+    
+### Bibliotecas
+
+    pandas
+    openpyxl
+    twilio
     
