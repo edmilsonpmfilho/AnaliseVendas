@@ -11,6 +11,7 @@
    - pandas
    - openpyxl
    - twilio
+   - Para as instlações das bibliotecas, basta ir no terminal e escrever: pip install + nome da biblioteca. Ex.: pip install pandas
    
 ## Twilio
    https://www.twilio.com/pt-br/
